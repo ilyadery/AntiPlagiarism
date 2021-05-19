@@ -1,0 +1,2 @@
+# AntiPlagiarism
+My diplom project
